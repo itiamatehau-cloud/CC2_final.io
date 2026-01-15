@@ -1,10 +1,9 @@
 ---
 title: "Analyse_(Oh et al., 2023)"
-output:
-  pdf_document: default
-  html_document: default
 date: "2026-01-12"
 ---
+
+
 # INTRODUCTION
 
 Cette étude, intitulée "Metagenomic characterization of the microbiomes in five different body habitats of otherwise healthy individuals with periodontal disease", a été publiée le 13 septembre 2023 dans la revue Frontiers in Cellular and Infection Microbiology. Les auteurs principaux sont Sujin Oh, Hyo-Jung Lee et Kyoung Un Park, issus de l'Université Nationale de Séoul.
